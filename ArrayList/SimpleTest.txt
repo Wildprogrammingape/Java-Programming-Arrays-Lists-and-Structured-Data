@@ -1,0 +1,5 @@
+This is my simple test for WordFrequency.
+
+My name is Long Chen.
+
+The date is 06/06/2020.
